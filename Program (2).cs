@@ -234,7 +234,7 @@ public class Group
         group.SetStudent(0, new Student("Иван", "Иванов", 22));
 
 
-        // Дополнительный код программы
+                    
 
     }
     public void RemoveStudentByIndex(int index)
